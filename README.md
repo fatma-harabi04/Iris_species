@@ -26,6 +26,7 @@ This project explores the classic [Iris flower dataset](https://archive.ics.uci.
 - Jupyter Notebook
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
+- sckit_learn 
 
 ## What I Learned
 
